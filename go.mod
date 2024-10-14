@@ -14,7 +14,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.2.2
 	github.com/rs/zerolog v1.33.0
 	go.uber.org/automaxprocs v1.6.0
-	go.uber.org/fx v1.22.2
+	go.uber.org/fx v1.23.0
 )
 
 require (
